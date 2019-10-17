@@ -33,6 +33,13 @@ html, body {
     line-height: 2;
 }
 
+.icon {
+    width: 16px;
+    height: 2px;
+    background-color: #fff;
+    margin: 2px 0;
+}
+
 .ba-header-wrapper {
     display: flex;
     align-items: center;
